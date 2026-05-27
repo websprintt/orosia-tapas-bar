@@ -1,0 +1,6 @@
+{
+  "name": "Orosia Tapas & Vinos",
+  "description": "Landing page premium, interactiva y ultra-moderna de Orosia, el restaurante de tapas originales, vinos selectos y opciones veganas en Ciudad Real.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
