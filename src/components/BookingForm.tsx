@@ -332,7 +332,7 @@ export default function BookingForm() {
                               type="tel"
                               name="phone"
                               required
-                              placeholder="Ej. 601 31 88 35"
+                              placeholder="Ej. +34 601 31 88 35"
                               value={formData.phone}
                               onChange={handleInputChange}
                               className="w-full pl-10 pr-4 py-3 bg-zinc-905 border border-zinc-800 rounded-xl text-zinc-200 text-sm focus:border-amber-500 focus:outline-none placeholder-zinc-650"

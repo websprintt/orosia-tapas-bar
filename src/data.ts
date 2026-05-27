@@ -22,12 +22,12 @@ export const OROSIA_INFO = {
   priceRange: '€20-30',
   address: 'C. Libertad, 12, 13003 Ciudad Real',
   // Base64 obfuscated to block automatic scraping bots
-  b64Phone: 'NjAxIDMxIDg4IDM1', // '601 31 88 35'
-  b64PhonePlain: 'NjAxMzE4ODM1', // '601318835'
+  b64Phone: 'KzM0IDYwMSAzMSA4OCAzNQ==', // '+34 601 31 88 35'
+  b64PhonePlain: 'KzM0NjAxMzE4ODM1', // '+34601318835'
   b64Email: 'cmVzZXJ2YXNAb3Jvc2lhY3IuZXM=', // 'reservas@orosiacr.es'
   b64Whatsapp: 'aHR0cHM6Ly93YS5tZS8zNDYwMTMxODgzNQ==', // 'https://wa.me/34601318835'
-  phone: '601 31 88 35',
-  phonePlain: '601318835',
+  phone: '+34 601 31 88 35',
+  phonePlain: '+34601318835',
   plusCode: 'X3PF+FX Ciudad Real',
   schedule: 'Abierto todos los días de 13:00 a 16:30 y de 20:00 a 23:30',
   closingTimeToday: '23:30',
